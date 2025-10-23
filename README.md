@@ -2,4 +2,4 @@
 Unit1- Al-Based Smart Solutions: Designing Chatbots for Real-World Challenges
 
 Link to my campus navagation chatbot SA:
-https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1
+https://dialogflow.cloud.google.com/#/agent/smartcampusassistantbot-tukh/integrations
