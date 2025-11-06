@@ -19,6 +19,7 @@ Many students and visitors often struggle to find specific buildings, check offi
 The goal of this project is to design and deploy a user-friendly, efficient chatbot that enhances campus communication, improves accessibility, and provides a seamless support experience for everyone.
 
 **Intents**
+
 Welcome – Greets users when they first open or start chatting with the bot.
 
 Identification – Identifies users by category: student, teacher, or visitor.
