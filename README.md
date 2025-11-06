@@ -1,6 +1,13 @@
 # IDI1011000470-Ariella-Sansita-M
 Unit1- Al-Based Smart Solutions: Designing Chatbots for Real-World Challenges
 
+Candidate Name-Ariella Sansita
+Candidate Registration Number- 1000470
+RS Name: Artificial Intelligence
+ourse Name - Unit 1-Al-Based Smart Solutions: Designing Chatbots for Real-World
+Challenges
+School Name - Birla Open Minds International School, Kollur
+
 **Smart Campus Assistant Chatbot**
 
 **Project Overview**
