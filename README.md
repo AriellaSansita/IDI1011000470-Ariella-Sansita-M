@@ -88,15 +88,18 @@ The goal of this project is to design and deploy a user-friendly, efficient chat
 * transport – Refers to the transportation mode or route within the campus.
 
 **Integration Details**
+
 The chatbot can be integrated with Google Maps API to provide interactive directions to buildings and facilities, and with Google Calendar to automatically display upcoming campus events. Future updates could also include linking it to the school website or student portal for live information.
 
 **Deployment Instructions**
+
 The chatbot was designed, trained, and tested on Google Dialogflow. All intents, entities, and responses were configured within the platform. After successful testing using multiple real user queries, the chatbot was deployed on Dialogflow’s web integration and is accessible through the live link below.
 
 **Platform**: Google Dialogflow 
 
 **Live Chatbot Link**: https://ariellasansita.github.io/IDI1011000470-Ariella-Sansita-M/
 **GitHub Repository**: https://github.com/ariellasansita/IDI1011000470-Ariella-Sansita-M
+
 
 **Testing & Optimization**
 
