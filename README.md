@@ -12,6 +12,8 @@
 
 # School Name: Birla Open Minds International School, Kollur
 
+# Summative Assessment 1
+
 **Project Overview**
 
 The Smart Campus Assistant is an AI-powered chatbot built using Google Dialogflow to help students, visitors, and staff easily navigate the campus. It provides quick and reliable answers about locations, facilities, events, office hours, transportation, and emergency information — all through simple, natural conversations.
@@ -94,6 +96,7 @@ The chatbot was designed, trained, and tested on Google Dialogflow. All intents,
 **Platform**: Google Dialogflow 
 
 **Live Chatbot Link**: https://ariellasansita.github.io/IDI1011000470-Ariella-Sansita-M/
+**GitHub Repository**: https://github.com/ariellasansita/IDI1011000470-Ariella-Sansita-M
 
 **Testing & Optimization**
 
