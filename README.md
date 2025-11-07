@@ -91,5 +91,18 @@ The chatbot can be integrated with Google Maps API to provide interactive direct
 **Deployment Instructions**
 The chatbot was designed, trained, and tested on Google Dialogflow. All intents, entities, and responses were configured within the platform. After successful testing using multiple real user queries, the chatbot was deployed on Dialogflow’s web integration and is accessible through the live link below.
 
-
 Platform: Google Dialogflow Live Chatbot Link: https://ariellasansita.github.io/IDI1011000470-Ariella-Sansita-M/
+
+**Testing & Optimization**
+
+The chatbot was tested with multiple user scenarios to ensure accuracy, clarity, and reliability.
+Examples include:
+
+“Where is the Library?” → Provided correct location and map link.
+
+“What are today’s events?” → Displayed the current event schedule.
+
+“I lost my ID card.” → Triggered the “Report Missing Items” intent.
+
+“Emergency! Someone fainted.” → Gave immediate emergency response and contact info.
+
