@@ -2,17 +2,15 @@
 
 # Smart Campus Assistant Chatbot
 
-# Candidate Name-Ariella Sansita
+# Candidate Name: Ariella Sansita
 
-# Candidate Registration Number- 1000470
+# Candidate Registration Number: 1000470
 
 # CRS Name: Artificial Intelligence
 
-# Course Name - Unit 1-Al-Based Smart Solutions: Designing Chatbots for Real-World Challenges
+# Course Name: Unit 1-Al-Based Smart Solutions: Designing Chatbots for Real-World Challenges
 
-# School Name - Birla Open Minds International School, Kollur
-
-**Smart Campus Assistant Chatbot**
+# School Name: Birla Open Minds International School, Kollur
 
 **Project Overview**
 The Smart Campus Assistant is an AI-powered chatbot built using Google Dialogflow to help students, visitors, and staff easily navigate the campus. It provides quick and reliable answers about locations, facilities, events, office hours, transportation, and emergency information — all through simple, natural conversations.
