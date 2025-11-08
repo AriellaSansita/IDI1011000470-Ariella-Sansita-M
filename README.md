@@ -98,7 +98,6 @@ The chatbot was designed, trained, and tested on Google Dialogflow. All intents,
 **Platform**: Google Dialogflow 
 
 **Live Chatbot Link**: https://ariellasansita.github.io/IDI1011000470-Ariella-Sansita-M/
-**GitHub Repository**: https://github.com/ariellasansita/IDI1011000470-Ariella-Sansita-M
 
 
 **Testing & Optimization**
